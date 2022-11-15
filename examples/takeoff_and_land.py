@@ -3,7 +3,7 @@
 import asyncio
 from mavsdk import System
 
-
+#着陸
 async def run():
 
     drone = System()
